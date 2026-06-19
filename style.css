@@ -24,7 +24,16 @@ main{
      background-color: darkblue;
 }
 
+.cartao{
 
+    width: 260px;
+    height:200px;
+}
+
+.cartao-imagen{
+
+    width: 100%;
+}
 
 
 
